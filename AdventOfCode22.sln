@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdventOfCode22", "AdventOfCode22.vcxproj", "{FB6DB628-3B75-4AA5-BA2F-14D269709D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Debug|x64.ActiveCfg = Debug|x64
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Debug|x64.Build.0 = Debug|x64
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Debug|x86.Build.0 = Debug|Win32
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Release|x64.ActiveCfg = Release|x64
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Release|x64.Build.0 = Release|x64
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Release|x86.ActiveCfg = Release|Win32
+		{FB6DB628-3B75-4AA5-BA2F-14D269709D71}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573B2CB3-DB5C-4FBA-BDA4-C58AD747204B}
+	EndGlobalSection
+EndGlobal
