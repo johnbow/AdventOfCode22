@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,6 +141,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Day01.cpp" />
+    <ClCompile Include="Day02.cpp" />
+    <ClCompile Include="Day00.cpp" />
+    <ClCompile Include="Day03.cpp" />
+    <ClCompile Include="Day04.cpp" />
+    <ClCompile Include="Day05.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Day01.txt" />
+    <Text Include="Day02.txt" />
+    <Text Include="Day03.txt" />
+    <Text Include="Day03test.txt" />
+    <Text Include="Day04.txt" />
+    <Text Include="Day04test.txt" />
+    <Text Include="Day05.txt" />
+    <Text Include="Day05test.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
