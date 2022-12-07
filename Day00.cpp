@@ -19,7 +19,7 @@ void part2() {
 }
 
 void main() {
-
+	part1();
 }
 
 */
